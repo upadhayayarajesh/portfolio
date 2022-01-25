@@ -535,7 +535,7 @@ p {
 	align-items: top;
 	
 }
-.skill-heading h1{
+#skill-heading h1{
 	display: flex;
 	justify-content: center;
 	align-items: center;
